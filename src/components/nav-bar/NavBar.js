@@ -5,7 +5,7 @@ export default function NavBar() {
     return (
         <div className='header'>
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-                <a className="navbar-brand ml-2" href="/" style={{textDecoration: 'bold', color: '#FFFF'}}>MONGO APP</a>
+                <a className="navbar-brand ml-2" href="" style={{textDecoration: 'bold', color: '#FFFF'}}>MONGO APP</a>
                 <button className="navbar-toggler" type="button" data-toggle="collapsed" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
